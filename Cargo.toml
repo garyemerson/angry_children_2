@@ -1,0 +1,6 @@
+[package]
+name = "angry_children_2"
+version = "0.1.0"
+authors = ["garyemerson <gmohammadioun@gmail.com>"]
+
+[dependencies]
